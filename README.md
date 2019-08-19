@@ -3,6 +3,6 @@
 
 Questo manuale sarà perennemente ***Work-In-Progress***
 
-Tutti sono invitati a migliorarlo a livello di contenuto è, ortografico è grammaticale.
+Tutti sono invitati a migliorarlo a livello di contenuto, ortografico e grammaticale.
 
 La democratizzazione della informazione è compito di tutti. 
