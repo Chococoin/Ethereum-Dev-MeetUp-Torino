@@ -1,6 +1,6 @@
 # Giorno di lezione per Developers Web 3.0 livello Rookie.
 
-## Blockchain (la catena di Blocchi) 
+## Blockchain (la catena di blocchi) 
 - Storia.
 - Cosa sono i blocchi di questa catena.
     - Hash di un documento.
